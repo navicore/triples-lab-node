@@ -1,0 +1,17 @@
+{
+  "name": "triples-lab-node",
+  "version": "1.0.0",
+  "description": "Experiments with RDF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rdf"
+  ],
+  "author": "Ed Sweeney",
+  "license": "MIT",
+  "dependencies": {
+    "n3": "^1.8.0"
+  }
+}
